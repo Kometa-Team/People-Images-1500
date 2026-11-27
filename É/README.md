@@ -1,0 +1,6 @@
+# Kometa People Images - Original 1000x1500 - É (4 Images)
+
+* [Élodie Yung](https://raw.githubusercontent.com/Kometa-Team/People-Images-1500/dependabot/github_actions/main/actions/checkout-7/É/Images/%C3%89lodie%20Yung.jpg)
+* [Éric Rohmer](https://raw.githubusercontent.com/Kometa-Team/People-Images-1500/dependabot/github_actions/main/actions/checkout-7/É/Images/%C3%89ric%20Rohmer.jpg)
+* [Éric Toledano](https://raw.githubusercontent.com/Kometa-Team/People-Images-1500/dependabot/github_actions/main/actions/checkout-7/É/Images/%C3%89ric%20Toledano.jpg)
+* [Étienne Boulay](https://raw.githubusercontent.com/Kometa-Team/People-Images-1500/dependabot/github_actions/main/actions/checkout-7/É/Images/%C3%89tienne%20Boulay.jpg)
